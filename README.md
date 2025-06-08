@@ -20,9 +20,9 @@
 <tr>
 <td>
 
-Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
+Hola, soy Joel Vargas, un programador apasionado por la tecnología y el aprendizaje continuo. Me desenvuelvo en entornos desafiantes y siempre me esfuerzo por ser la mejor versión de mí mismo. La competitividad impulsa mi crecimiento y siempre estoy dispuesto a asumir nuevos retos, aprender nuevas habilidades y ampliar mis conocimientos. La programación se ha convertido en algo más que un simple hobby, es un arte que aspiro a perfeccionar.
 
-"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+"La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca el mundo entero, estimulando el progreso y dando origen a la evolución."
 
 </td>
 <td>
